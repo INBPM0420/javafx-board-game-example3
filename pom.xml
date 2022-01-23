@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>boardgame.Main</exec.mainClass>
-        <javafx.version>17.0.1</javafx.version>
+        <javafx.version>17.0.2</javafx.version>
         <tinylog.version>2.4.1</tinylog.version>
     </properties>
     <dependencies>
